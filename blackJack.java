@@ -1,7 +1,5 @@
 /*
 Name: Harguntas Singh Benipal
-Teacher Name: Mr. Bains
-Course : ICS3U0-C
 Date: December 12, 2021
 Description: Blackjack program that gives 2 random cards to the dealer and user and compares the scores to see who is higher. The user has the option to draw more cards however, if the card total goes over 21, they lose. The user also can place bets. 
 */
